@@ -7,6 +7,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MridulGehlot/Leetcode/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MridulGehlot/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -17,4 +18,8 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MridulGehlot/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
