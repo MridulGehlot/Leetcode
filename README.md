@@ -14,6 +14,7 @@ All My Solutions of Leetcode problems
 | [0055-jump-game](https://github.com/MridulGehlot/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MridulGehlot/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MridulGehlot/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MridulGehlot/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -60,6 +61,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MridulGehlot/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/MridulGehlot/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
