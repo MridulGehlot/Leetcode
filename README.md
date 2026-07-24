@@ -33,6 +33,7 @@ All My Solutions of Leetcode problems
 | [0055-jump-game](https://github.com/MridulGehlot/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MridulGehlot/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0338-counting-bits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,4 +63,5 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0190-reverse-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
