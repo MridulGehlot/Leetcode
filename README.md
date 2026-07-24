@@ -39,6 +39,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -56,5 +57,6 @@ All My Solutions of Leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
