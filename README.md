@@ -39,6 +39,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,4 +53,8 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MridulGehlot/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
