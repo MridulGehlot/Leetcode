@@ -79,6 +79,7 @@ All My Solutions of Leetcode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MridulGehlot/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/MridulGehlot/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MridulGehlot/Leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/MridulGehlot/Leetcode/tree/master/0371-sum-of-two-integers) |
