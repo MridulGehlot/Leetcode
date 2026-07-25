@@ -24,11 +24,13 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/MridulGehlot/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MridulGehlot/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulGehlot/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -89,4 +91,8 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MridulGehlot/Leetcode/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
