@@ -95,6 +95,7 @@ All My Solutions of Leetcode problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
@@ -108,4 +109,8 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MridulGehlot/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
