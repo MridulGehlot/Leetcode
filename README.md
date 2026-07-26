@@ -137,10 +137,12 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/MridulGehlot/Leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/MridulGehlot/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/MridulGehlot/Leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/MridulGehlot/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
