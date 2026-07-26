@@ -19,6 +19,7 @@ All My Solutions of Leetcode problems
 | [0213-house-robber-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MridulGehlot/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ All My Solutions of Leetcode problems
 | [0015-3sum](https://github.com/MridulGehlot/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulGehlot/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -83,6 +85,7 @@ All My Solutions of Leetcode problems
 | [0062-unique-paths](https://github.com/MridulGehlot/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MridulGehlot/Leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/MridulGehlot/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulGehlot/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Combinatorics
 |  |
