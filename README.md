@@ -105,6 +105,7 @@ All My Solutions of Leetcode problems
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MridulGehlot/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -121,6 +122,7 @@ All My Solutions of Leetcode problems
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MridulGehlot/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -142,6 +144,7 @@ All My Solutions of Leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -159,4 +162,8 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
