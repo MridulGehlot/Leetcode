@@ -105,6 +105,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MridulGehlot/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/MridulGehlot/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Stack
 |  |
 | ------- |
@@ -126,4 +128,16 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/MridulGehlot/Leetcode/tree/master/0143-reorder-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
