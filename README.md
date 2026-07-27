@@ -21,6 +21,7 @@ All My Solutions of Leetcode problems
 | [0238-product-of-array-except-self](https://github.com/MridulGehlot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MridulGehlot/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ All My Solutions of Leetcode problems
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MridulGehlot/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulGehlot/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -171,4 +173,8 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MridulGehlot/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
