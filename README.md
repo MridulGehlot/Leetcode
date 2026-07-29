@@ -9,6 +9,7 @@ All My Solutions of Leetcode problems
 | [0001-two-sum](https://github.com/MridulGehlot/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/MridulGehlot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MridulGehlot/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/MridulGehlot/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MridulGehlot/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MridulGehlot/Leetcode/tree/master/0055-jump-game) |
@@ -68,6 +69,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/MridulGehlot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MridulGehlot/Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/MridulGehlot/Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/MridulGehlot/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/MridulGehlot/Leetcode/tree/master/0143-reorder-list) |
 ## Greedy
