@@ -12,6 +12,7 @@ All My Solutions of Leetcode problems
 | [0031-next-permutation](https://github.com/MridulGehlot/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MridulGehlot/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/MridulGehlot/Leetcode/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/MridulGehlot/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MridulGehlot/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MridulGehlot/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MridulGehlot/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/MridulGehlot/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/MridulGehlot/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MridulGehlot/Leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/MridulGehlot/Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -189,6 +191,7 @@ All My Solutions of Leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MridulGehlot/Leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/MridulGehlot/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Binary Search Tree
