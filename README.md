@@ -24,6 +24,7 @@ All My Solutions of Leetcode problems
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MridulGehlot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
@@ -59,6 +60,7 @@ All My Solutions of Leetcode problems
 | [0198-house-robber](https://github.com/MridulGehlot/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0518-coin-change-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 ## Prefix Sum
@@ -104,6 +106,7 @@ All My Solutions of Leetcode problems
 | [0062-unique-paths](https://github.com/MridulGehlot/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MridulGehlot/Leetcode/tree/master/0070-climbing-stairs) |
 | [0371-sum-of-two-integers](https://github.com/MridulGehlot/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulGehlot/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Combinatorics
@@ -168,6 +171,7 @@ All My Solutions of Leetcode problems
 | [0021-merge-two-sorted-lists](https://github.com/MridulGehlot/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/MridulGehlot/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/MridulGehlot/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -228,4 +232,8 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MridulGehlot/Leetcode/tree/master/0200-number-of-islands) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
