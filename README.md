@@ -28,6 +28,7 @@ All My Solutions of Leetcode problems
 | [0518-coin-change-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MridulGehlot/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ All My Solutions of Leetcode problems
 | [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0518-coin-change-ii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,6 +110,7 @@ All My Solutions of Leetcode problems
 | [0371-sum-of-two-integers](https://github.com/MridulGehlot/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulGehlot/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Combinatorics
 |  |
@@ -236,4 +239,13 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
