@@ -150,6 +150,7 @@ All My Solutions of Leetcode problems
 | [0207-course-schedule](https://github.com/MridulGehlot/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [3310-remove-methods-from-project](https://github.com/MridulGehlot/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -190,6 +191,7 @@ All My Solutions of Leetcode problems
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3310-remove-methods-from-project](https://github.com/MridulGehlot/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
 | ------- |
@@ -230,6 +232,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0133-clone-graph](https://github.com/MridulGehlot/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/MridulGehlot/Leetcode/tree/master/0207-course-schedule) |
+| [3310-remove-methods-from-project](https://github.com/MridulGehlot/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
