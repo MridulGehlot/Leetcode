@@ -30,6 +30,7 @@ All My Solutions of Leetcode problems
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MridulGehlot/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulGehlot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MridulGehlot/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/MridulGehlot/Leetcode/tree/master/3731-find-missing-elements) |
@@ -95,6 +96,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/MridulGehlot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MridulGehlot/Leetcode/tree/master/0055-jump-game) |
+| [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@ All My Solutions of Leetcode problems
 | [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MridulGehlot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulGehlot/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Combinatorics
@@ -223,6 +226,7 @@ All My Solutions of Leetcode problems
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulGehlot/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -252,16 +256,23 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MridulGehlot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
