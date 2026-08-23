@@ -101,6 +101,7 @@ All My Solutions of Leetcode problems
 | [0011-container-with-most-water](https://github.com/MridulGehlot/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/MridulGehlot/Leetcode/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/MridulGehlot/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/MridulGehlot/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@ All My Solutions of Leetcode problems
 | [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/MridulGehlot/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MridulGehlot/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MridulGehlot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -148,6 +150,7 @@ All My Solutions of Leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/MridulGehlot/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
+| [1927-sum-game](https://github.com/MridulGehlot/Leetcode/tree/master/1927-sum-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulGehlot/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
@@ -266,6 +269,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/MridulGehlot/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
