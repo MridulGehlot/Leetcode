@@ -155,6 +155,7 @@ All My Solutions of Leetcode problems
 | [0020-valid-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/MridulGehlot/Leetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MridulGehlot/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulGehlot/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
@@ -250,6 +251,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MridulGehlot/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MridulGehlot/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
 | ------- |
