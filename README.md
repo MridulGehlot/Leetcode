@@ -39,6 +39,7 @@ All My Solutions of Leetcode problems
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MridulGehlot/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/MridulGehlot/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MridulGehlot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/MridulGehlot/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MridulGehlot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1872-stone-game-viii](https://github.com/MridulGehlot/Leetcode/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/MridulGehlot/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
