@@ -145,6 +145,7 @@ All My Solutions of Leetcode problems
 | [3345-smallest-divisible-digit-product-i](https://github.com/MridulGehlot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulGehlot/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3870-count-commas-in-range](https://github.com/MridulGehlot/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/MridulGehlot/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MridulGehlot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Combinatorics
 |  |
