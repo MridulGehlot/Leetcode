@@ -174,6 +174,7 @@ All My Solutions of Leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MridulGehlot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,6 +196,7 @@ All My Solutions of Leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MridulGehlot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
 |  |
 | ------- |
@@ -227,6 +229,7 @@ All My Solutions of Leetcode problems
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MridulGehlot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/MridulGehlot/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## String Matching
 |  |
