@@ -31,6 +31,7 @@ All My Solutions of Leetcode problems
 | [1386-cinema-seat-allocation](https://github.com/MridulGehlot/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MridulGehlot/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MridulGehlot/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/MridulGehlot/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulGehlot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -51,6 +52,7 @@ All My Solutions of Leetcode problems
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/MridulGehlot/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MridulGehlot/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulGehlot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/MridulGehlot/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -86,6 +88,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MridulGehlot/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MridulGehlot/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/MridulGehlot/Leetcode/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/MridulGehlot/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/MridulGehlot/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -116,6 +119,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MridulGehlot/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MridulGehlot/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MridulGehlot/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MridulGehlot/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -264,6 +268,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MridulGehlot/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MridulGehlot/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MridulGehlot/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Backtracking
 |  |
