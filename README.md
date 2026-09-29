@@ -23,6 +23,7 @@ All My Solutions of Leetcode problems
 | [0200-number-of-islands](https://github.com/MridulGehlot/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/MridulGehlot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0486-predict-the-winner](https://github.com/MridulGehlot/Leetcode/tree/master/0486-predict-the-winner) |
@@ -54,6 +55,7 @@ All My Solutions of Leetcode problems
 | [0141-linked-list-cycle](https://github.com/MridulGehlot/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/MridulGehlot/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MridulGehlot/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -66,6 +68,7 @@ All My Solutions of Leetcode problems
 | [0015-3sum](https://github.com/MridulGehlot/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MridulGehlot/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -273,6 +276,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulGehlot/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -345,4 +349,5 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
