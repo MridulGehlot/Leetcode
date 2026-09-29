@@ -18,6 +18,7 @@ All My Solutions of Leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MridulGehlot/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MridulGehlot/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/MridulGehlot/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/MridulGehlot/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0213-house-robber-ii) |
@@ -51,6 +52,7 @@ All My Solutions of Leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/MridulGehlot/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/MridulGehlot/Leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/MridulGehlot/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/MridulGehlot/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -62,6 +64,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MridulGehlot/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MridulGehlot/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +102,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MridulGehlot/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
@@ -268,6 +272,7 @@ All My Solutions of Leetcode problems
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulGehlot/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -336,4 +341,8 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
