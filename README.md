@@ -81,6 +81,7 @@ All My Solutions of Leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MridulGehlot/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MridulGehlot/Leetcode/tree/master/0062-unique-paths) |
@@ -179,6 +180,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MridulGehlot/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MridulGehlot/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -292,6 +294,7 @@ All My Solutions of Leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MridulGehlot/Leetcode/tree/master/0039-combination-sum) |
 ## Graph Theory
 |  |
@@ -348,6 +351,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
