@@ -183,6 +183,7 @@ All My Solutions of Leetcode problems
 | [0020-valid-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/MridulGehlot/Leetcode/tree/master/0242-valid-anagram) |
+| [0856-score-of-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MridulGehlot/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/MridulGehlot/Leetcode/tree/master/1927-sum-game) |
@@ -226,6 +227,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/MridulGehlot/Leetcode/tree/master/0143-reorder-list) |
+| [0856-score-of-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -354,6 +356,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/MridulGehlot/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
