@@ -38,6 +38,7 @@ All My Solutions of Leetcode problems
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/MridulGehlot/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/MridulGehlot/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MridulGehlot/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulGehlot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MridulGehlot/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MridulGehlot/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -345,6 +346,7 @@ All My Solutions of Leetcode problems
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/MridulGehlot/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MridulGehlot/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Nim Game
 |  |
