@@ -44,6 +44,7 @@ All My Solutions of Leetcode problems
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MridulGehlot/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MridulGehlot/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MridulGehlot/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MridulGehlot/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MridulGehlot/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MridulGehlot/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/MridulGehlot/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -78,6 +79,7 @@ All My Solutions of Leetcode problems
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MridulGehlot/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulGehlot/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MridulGehlot/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MridulGehlot/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/MridulGehlot/Leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -132,6 +134,7 @@ All My Solutions of Leetcode problems
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MridulGehlot/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/MridulGehlot/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/MridulGehlot/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
