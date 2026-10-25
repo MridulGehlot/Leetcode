@@ -31,6 +31,7 @@ All My Solutions of Leetcode problems
 | [0518-coin-change-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/MridulGehlot/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MridulGehlot/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -229,6 +230,7 @@ All My Solutions of Leetcode problems
 | [0207-course-schedule](https://github.com/MridulGehlot/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/MridulGehlot/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -278,6 +280,7 @@ All My Solutions of Leetcode problems
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MridulGehlot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/MridulGehlot/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## String Matching
@@ -294,6 +297,7 @@ All My Solutions of Leetcode problems
 | [0048-rotate-image](https://github.com/MridulGehlot/Leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/MridulGehlot/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -335,6 +339,7 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MridulGehlot/Leetcode/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Game Theory
 |  |
 | ------- |
