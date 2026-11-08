@@ -32,6 +32,7 @@ All My Solutions of Leetcode problems
 | [0628-maximum-product-of-three-numbers](https://github.com/MridulGehlot/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MridulGehlot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MridulGehlot/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/MridulGehlot/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/MridulGehlot/Leetcode/tree/master/1406-stone-game-iii) |
@@ -238,6 +239,7 @@ All My Solutions of Leetcode problems
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MridulGehlot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/MridulGehlot/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MridulGehlot/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -289,6 +291,7 @@ All My Solutions of Leetcode problems
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MridulGehlot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MridulGehlot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/MridulGehlot/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MridulGehlot/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -307,6 +310,7 @@ All My Solutions of Leetcode problems
 | [0200-number-of-islands](https://github.com/MridulGehlot/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MridulGehlot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MridulGehlot/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -321,6 +325,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0169-majority-element](https://github.com/MridulGehlot/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MridulGehlot/Leetcode/tree/master/0229-majority-element-ii) |
+| [1267-count-servers-that-communicate](https://github.com/MridulGehlot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/MridulGehlot/Leetcode/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulGehlot/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -350,6 +355,7 @@ All My Solutions of Leetcode problems
 | ------- |
 | [0200-number-of-islands](https://github.com/MridulGehlot/Leetcode/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/MridulGehlot/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MridulGehlot/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Game Theory
 |  |
