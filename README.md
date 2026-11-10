@@ -227,6 +227,7 @@ All My Solutions of Leetcode problems
 | [0102-binary-tree-level-order-traversal](https://github.com/MridulGehlot/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/MridulGehlot/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MridulGehlot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -252,6 +253,7 @@ All My Solutions of Leetcode problems
 | [0102-binary-tree-level-order-traversal](https://github.com/MridulGehlot/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0563-binary-tree-tilt](https://github.com/MridulGehlot/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MridulGehlot/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Stack
@@ -291,6 +293,7 @@ All My Solutions of Leetcode problems
 | [0207-course-schedule](https://github.com/MridulGehlot/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/MridulGehlot/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0563-binary-tree-tilt](https://github.com/MridulGehlot/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/MridulGehlot/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/MridulGehlot/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/MridulGehlot/Leetcode/tree/master/1267-count-servers-that-communicate) |
@@ -432,4 +435,8 @@ All My Solutions of Leetcode problems
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MridulGehlot/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## DP on Trees
+|  |
+| ------- |
+| [0563-binary-tree-tilt](https://github.com/MridulGehlot/Leetcode/tree/master/0563-binary-tree-tilt) |
 <!---LeetCode Topics End-->
