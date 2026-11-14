@@ -48,6 +48,7 @@ All My Solutions of Leetcode problems
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MridulGehlot/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MridulGehlot/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MridulGehlot/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/MridulGehlot/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/MridulGehlot/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -118,6 +119,7 @@ All My Solutions of Leetcode problems
 | [0238-product-of-array-except-self](https://github.com/MridulGehlot/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MridulGehlot/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/MridulGehlot/Leetcode/tree/master/1872-stone-game-viii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/MridulGehlot/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/MridulGehlot/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -341,6 +343,7 @@ All My Solutions of Leetcode problems
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/MridulGehlot/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/MridulGehlot/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MridulGehlot/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MridulGehlot/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
