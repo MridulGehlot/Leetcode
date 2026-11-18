@@ -221,6 +221,7 @@ All My Solutions of Leetcode problems
 | [2243-calculate-digit-sum-of-a-string](https://github.com/MridulGehlot/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/MridulGehlot/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MridulGehlot/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/MridulGehlot/Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/MridulGehlot/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MridulGehlot/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
